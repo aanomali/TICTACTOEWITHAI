@@ -26,20 +26,20 @@ How to Run:
 4. Run the game using the command: python tic_tac_toe_ai.py.
 5. This Tic Tac Toe AI game is perfect for anyone looking to experience a classic game with a modern twist. Whether you're a beginner or an experienced player, this game promises hours of fun and mental stimulation. Enjoy!
 
-1. BACKGROUND
+a. BACKGROUND
 ![arrkaplan](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/b6ed2d98-b2b4-4e84-9fbd-251eed2d2012)
 
-2. General Background View in the game
+b. General Background View in the game
 ![1 BACKGROUND](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/b6167054-10f5-4924-810e-d9942469accc)
 
-3. When the player makes a move, the AI responds immediately
+c. When the player makes a move, the AI responds immediately
 ![YapılanilkhamleyeaıdirektAI has chosen to mark the square in pos (0, 2)olarakyanıtverdi](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/0d61657f-e52e-44c6-a2fc-5d0d73d680e9)
 
-4. The screen that appears when the AI wins the game
+d. The screen that appears when the AI wins the game
 ![oyunkaybedilinceçkangörsel](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/346bff2e-67df-4b0d-b33f-d9b8d67242c1)
 
-5. And then this winning picture comes out
+e. And then this winning picture comes out
 ![ardındangelenwinninggörüntüsü](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/9a97bade-f3f4-45a5-886f-1999183095b3)
 
-6. If the game cannot be won after 25 moves, the draw screen appears
+f. If the game cannot be won after 25 moves, the draw screen appears
 ![berraberlik](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/4870e2d4-1758-401f-99a7-8aeb44d76124)
