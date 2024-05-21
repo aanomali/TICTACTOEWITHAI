@@ -21,7 +21,11 @@ Automatic Move Deletion: After seven moves, the oldest move is automatically del
 How to Run:
 
 1. Ensure you have Python installed on your machine.
-2. Install the required libraries: pygame, numpy.
+2. Install the required libraries: pygame, numpy, copy, sys.
 3. Download or clone this repository.
 4. Run the game using the command: python tic_tac_toe_ai.py.
 5. This Tic Tac Toe AI game is perfect for anyone looking to experience a classic game with a modern twist. Whether you're a beginner or an experienced player, this game promises hours of fun and mental stimulation. Enjoy!
+
+
+<img width="resim genişliği(sayı olarak)" img height="resim yüksekliği(sayı olarak)" alt="Resim açıklaması" src="https://C:\Users\Mehmet Ali\Pictures\Screenshots.png">
+
