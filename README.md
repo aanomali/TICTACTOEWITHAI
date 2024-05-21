@@ -1,4 +1,4 @@
-# TICTACTOEWITHAI
+# TICTACTOE WITH AI
 
 This project is a modern implementation of the classic Tic Tac Toe game, enhanced with advanced artificial intelligence features. Developed using Python and the Pygame library, this game offers an engaging user experience with visually appealing graphics and intuitive gameplay. The AI opponent leverages the Minimax algorithm to make optimal moves, providing a challenging and strategic experience for players.
 
