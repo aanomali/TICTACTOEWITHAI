@@ -27,5 +27,6 @@ How to Run:
 5. This Tic Tac Toe AI game is perfect for anyone looking to experience a classic game with a modern twist. Whether you're a beginner or an experienced player, this game promises hours of fun and mental stimulation. Enjoy!
 
 
-<img width="resim genişliği(sayı olarak)" img height="resim yüksekliği(sayı olarak)" alt="Resim açıklaması" src="https://C:\Users\Mehmet Ali\Pictures\Screenshots.png">
+![1 BACKGROUND](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/b6167054-10f5-4924-810e-d9942469accc)
+
 
