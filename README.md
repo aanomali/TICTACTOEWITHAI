@@ -30,3 +30,4 @@ How to Run:
 ![1 BACKGROUND](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/b6167054-10f5-4924-810e-d9942469accc)
 
 
+![YapılanilkhamleyeaıdirektAI has chosen to mark the square in pos (0, 2)olarakyanıtverdi](https://github.com/aanomali/TICTACTOEWITHAI/assets/167927740/0d61657f-e52e-44c6-a2fc-5d0d73d680e9)
